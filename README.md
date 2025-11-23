@@ -1,4 +1,4 @@
-# Bongalistix  🕹️
+# BONGalistix 🕹️
 
 **Bongalistix** est un jeu 2D basé sur la physique : vous contrôlez un lanceur, réglez l’angle et la force du tir avec la souris, et tentez d’atteindre une cible avant que le projectile ne s’immobilise à travers une série de niveaux. 🎯
 
