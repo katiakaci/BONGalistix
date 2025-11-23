@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.suo
+*.sdf
+*.user
+*.opensdf
+*.opendb
+*.ipch
+
+# Build
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# Others
+*.dll
+*.log
